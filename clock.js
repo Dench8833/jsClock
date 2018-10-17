@@ -1,4 +1,4 @@
-function jsClocK() {
+function jsClock() {
 	var date = new Date();
 	var d = date.toLocaleDateString();
 	var t = date.toLocaleTimeString();
